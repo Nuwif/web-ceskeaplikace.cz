@@ -1,1 +1,1 @@
-# web-ceskeaplikacecz
+# web-ceskeaplikace.cz
